@@ -1,0 +1,23 @@
+{
+  "name": "cats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asyncBreeds.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-driving/cats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-driving/cats/issues"
+  },
+  "homepage": "https://github.com/code-driving/cats#readme",
+  "devDependencies": {
+    "chai": "^4.3.3",
+    "mocha": "^8.3.1"
+  }
+}
